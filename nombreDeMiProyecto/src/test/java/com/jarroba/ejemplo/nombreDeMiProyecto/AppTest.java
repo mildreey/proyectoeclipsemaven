@@ -33,6 +33,12 @@ public class AppTest
      */
     public void testApp()
     {
+    App c = new App();
+		int sumar1,num1=3,num2=3;
+		sumar1=num1+num2;
+		System.out.println("Mi suma ");
+		System.out.println("resultado= "+sumar1);
+  
         assertTrue( true );
     }
 }
