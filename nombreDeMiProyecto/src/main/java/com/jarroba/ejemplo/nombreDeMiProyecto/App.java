@@ -1,5 +1,5 @@
 package com.jarroba.ejemplo.nombreDeMiProyecto;
-import org.junit.Test;
+
 /**
  * Hello world!
  *
@@ -7,7 +7,7 @@ import org.junit.Test;
 public class App 
 {
 	
-    @Test
+   
     public static void main( String[] args )
     {
     	int num1=5,num2=3,suma;
