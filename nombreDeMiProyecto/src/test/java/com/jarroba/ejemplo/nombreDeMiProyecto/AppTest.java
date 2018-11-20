@@ -25,6 +25,7 @@ public class AppTest
      */
     public static Test suite()
     {
+    System.out.println("Bienvenido a las pruebas de Maven, Jenkins y Junit");
         return new TestSuite( AppTest.class );
     }
 
